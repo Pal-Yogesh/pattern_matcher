@@ -3,7 +3,7 @@ import java.util.TreeMap;
 public class TreeEXample {
 
     public static void main(String[] args) {
-//     //   TreeEXample ts = new TreeEXample(new MyCom());
+//        TreeEXample ts = new TreeEXample(new MyCom());
 //        ts.put("aaa",10);
 //        ts.put("bbb",20);
 //        ts.put("ccc",30);

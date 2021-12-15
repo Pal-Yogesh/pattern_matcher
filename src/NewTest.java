@@ -1,6 +1,5 @@
 import java.util.TreeSet;
-
-public class Test {
+public class NewTest {
     public static void main(String[] args) {
         TreeSet obj = new TreeSet();
         obj.add("A");
