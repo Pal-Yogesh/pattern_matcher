@@ -4,7 +4,7 @@ import java.util.Comparator;
 public class Employee {
     public String name ;
     public  int id;
-    Employee(String name , int id){
+    Employee(String name , int id) {
         this.name=name;
         this.id=id;
     }
